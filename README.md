@@ -15,4 +15,10 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 ```mcp-sentiment\venv\Scripts\activate.bat``` 
 
 ## Command to push to multiple repos
+- set a second remote in git
+
 ```for %r in (origin hf) do git push %r main```
+
+## Login to Huggingface
+First go into console and generate a new token, then use it to login
+```huggingface-cli login```

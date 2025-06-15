@@ -1,3 +1,4 @@
 mcp-sentiment\venv\*
 .venv/
 venv/
+.env
