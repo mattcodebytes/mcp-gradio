@@ -10,3 +10,6 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+## Activate your virtual environment
+```mcp-sentiment\venv\Scripts\activate.bat``` 
